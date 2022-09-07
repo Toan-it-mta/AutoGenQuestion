@@ -1,0 +1,29 @@
+raw text:  Chủ tịch Quốc hội Vương Đình Nhuệ sẽ tới thăm trường THPT Bắc Cạn A, một ngôi trường thật đẹp.
+Ques:  Chủ tịch Quốc hội người sẽ tới thăm trường THPT Bắc Cạn A, một ngôi trường thật đẹp. Là ai ?
+Ques:  Chủ tịch Quốc hội Vương Đình Nhuệ sẽ tới thăm cái gì, một ngôi trường thật đẹp ?
+====================
+raw text:  (Dân trí) - Tổng thống Volodymyr Zelensky tuyên bố Ukraine sẽ giành lại Crimea, sau khi bán đảo này sáp nhập vào Nga năm 2014.
+Ques:  (cái gì) - Tổng thống Volodymyr Zelensky tuyên bố Ukraine sẽ giành lại Crimea, sau khi bán đảo này sáp nhập vào Nga năm 2014 ?
+Ques:  (Dân trí) - Tổng thống người tuyên bố Ukraine sẽ giành lại Crimea, sau khi bán đảo này sáp nhập vào Nga năm 2014. Là ai ?
+Ques:  (Dân trí) - Tổng thống Volodymyr Zelensky tuyên bố cái gì sẽ giành lại Crimea, sau khi bán đảo này sáp nhập vào Nga năm 2014 ?
+Ques:  (Dân trí) - Tổng thống Volodymyr Zelensky tuyên bố Ukraine sẽ giành lại cái gì, sau khi bán đảo này sáp nhập vào Nga năm 2014 ?
+Ques:  (Dân trí) - Tổng thống Volodymyr Zelensky tuyên bố Ukraine sẽ giành lại Crimea, sau khi bán đảo này sáp nhập vào cái gì năm 2014 ?
+Ques:  (Dân trí) - Tổng thống Volodymyr Zelensky tuyên bố Ukraine sẽ giành lại Crimea, sau khi bán đảo này sáp nhập vào Nga vào thời gian nào ?
+====================
+raw text:  Tổng thống Zelensky nói trong bài phát biểu hôm 4/9.
+Ques:  Tổng thống người nói trong bài phát biểu hôm 4/9. Là ai ?
+Ques:  Tổng thống Zelensky nói trong bài phát biểu vào thời gian nào ?
+====================
+raw text:  Tổng thống Ukraine mới đây tuyên bố, việc khôi phục hòa đàm với Nga chỉ có thể thực hiện nếu quân đội Nga rút khỏi "các vùng lãnh thổ chiếm đóng" của Ukraine.
+Ques:  Tổng thống cái gì mới đây tuyên bố, việc khôi phục hòa đàm với Nga chỉ có thể thực hiện nếu quân đội Nga rút khỏi "các vùng lãnh thổ chiếm đóng" của Ukraine ?
+Ques:  Tổng thống Ukraine mới đây tuyên bố, việc khôi phục hòa đàm với cái gì chỉ có thể thực hiện nếu quân đội Nga rút khỏi "các vùng lãnh thổ chiếm đóng" của Ukraine ?
+Ques:  Tổng thống Ukraine mới đây tuyên bố, việc khôi phục hòa đàm với Nga chỉ có thể thực hiện nếu quân đội cái gì rút khỏi "các vùng lãnh thổ chiếm đóng" của Ukraine ?
+Ques:  Tổng thống Ukraine mới đây tuyên bố, việc khôi phục hòa đàm với Nga chỉ có thể thực hiện nếu quân đội Nga rút khỏi "các vùng lãnh thổ chiếm đóng" của cái gì ?
+====================
+raw text:  ngày 19-01-2018 , Tổng thống Nga Putin đã khánh thành cây cầu dài 19km trị giá 4 tỷ USD nối Crimea với đất liền Nga.
+Ques:  ngày 19-01-2018 , Tổng thống cái gì Putin đã khánh thành cây cầu dài 19km trị giá 4 tỷ USD nối Crimea với đất liền Nga ?
+Ques:  ngày 19-01-2018 , Tổng thống Nga người đã khánh thành cây cầu dài 19km trị giá 4 tỷ USD nối Crimea với đất liền Nga. Là ai ?
+Ques:  ngày 19-01-2018 , Tổng thống Nga Putin đã khánh thành cây cầu dài 19km trị giá 4 tỷ USD nối cái gì với đất liền Nga ?
+Ques:  ngày 19-01-2018 , Tổng thống Nga Putin đã khánh thành cây cầu dài 19km trị giá 4 tỷ USD nối Crimea với đất liền cái gì ?
+Ques:  vào thời gian nào , Tổng thống Nga Putin đã khánh thành cây cầu dài 19km trị giá 4 tỷ USD nối Crimea với đất liền Nga ?
+====================
